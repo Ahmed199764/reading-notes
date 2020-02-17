@@ -9,9 +9,9 @@
 
  Title | Link
  ----- | ------
- read01 | [read01](https://ahmed199764.github.io/class-01/)
- read02 | [read02](https://ahmed199764.github.io/Read02/)
- read03 | [read03](https://ahmed199764.github.io/Read03/)
+ read01 | [read01](https://ahmed199764.github.io/reading-notes/class-01)
+ read02 | [read02](https://ahmed199764.github.io/reading-notes/class-02)
+ read03 | [read03](https://ahmed199764.github.io/reading-notes/class-03)
  read04 | [read04](https://ahmed199764.github.io/Read04/)
  read05 | [read05](https://ahmed199764.github.io/Read05/)
  read06 | [read06](https://ahmed199764.github.io/Read06/)
