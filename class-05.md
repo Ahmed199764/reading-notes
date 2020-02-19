@@ -59,6 +59,7 @@ by font-size.
 notice em > % > px 
 
 ### Extra proparties for text :-
+
 No. | Title
 ----|------
 1 | font-weight such as bold
