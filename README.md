@@ -14,7 +14,7 @@
  read03 | [read03](https://ahmed199764.github.io/reading-notes/class-03)
  read04 | [read04](https://ahmed199764.github.io/reading-notes/class-04)
  read05 | [read05](https://ahmed199764.github.io/reading-notes/class-05)
- read06 | [read06](https://ahmed199764.github.io/Read06/)
+ read06 | [read06](https://ahmed199764.github.io/reading-notes/class-06)
  read07 | [read07](https://ahmed199764.github.io/Read07/)
  read08 | [read08](https://ahmed199764.github.io/Read08/)
  read09 | [read09](https://ahmed199764.github.io/Read09/)
