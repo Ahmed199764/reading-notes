@@ -40,7 +40,7 @@ Several objects to represent a similar things.
 ##### Notice : in javescript data is represented using name/value pairs 
 
 ### Arrays are objects
-they are a special type of objects because they hold related type of key and values.
+they are a special type of objects because they hold related type of key and values
 
 
 
