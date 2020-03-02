@@ -21,7 +21,7 @@
  read10 | [read10](https://ahmed199764.github.io/reading-notes/class-10)
  read11 | [read11](https://ahmed199764.github.io/reading-notes/class-11)
  read12 | [read12](https://ahmed199764.github.io/reading-notes/class-12)
- read13 | [read13](https://ahmed199764.github.io/Read13/)
+ read13 | [read13](https://ahmed199764.github.io/reading-notes/class-13)
  read14 | [read14](https://ahmed199764.github.io/Read14/)
  read15 | [read15](https://ahmed199764.github.io/Read15/)
 
