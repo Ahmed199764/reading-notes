@@ -27,6 +27,7 @@
  read15 | [read15](https://ahmed199764.github.io/reading-notes/class-15)
  lvl301 | in Process
  read01 | [read01](https://ahmed199764.github.io/reading-notes/301-class-01)
+ read01 | [read02](https://ahmed199764.github.io/reading-notes/301-class-02)
 
 ![Reading logo](https://media.istockphoto.com/vectors/book-reading-logo-and-symbols-template-icons-app-vector-id1059719536)
 
