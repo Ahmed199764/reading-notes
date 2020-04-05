@@ -32,6 +32,7 @@
  read04 | [read04](https://ahmed199764.github.io/reading-notes/301-class-04)
  read05 | [read05](https://ahmed199764.github.io/reading-notes/301-class-05)
  read06 | [read06](https://ahmed199764.github.io/reading-notes/301-class-06)
+ read07 | [read07](https://ahmed199764.github.io/reading-notes/301-class-07)
 
 ![Reading logo](https://media.istockphoto.com/vectors/book-reading-logo-and-symbols-template-icons-app-vector-id1059719536)
 
