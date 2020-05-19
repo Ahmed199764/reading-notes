@@ -45,5 +45,6 @@
  WIKI   | [WIKI](https://ahmed199764.github.io/reading-notes/WIKI)
  read01 | [read01](https://ahmed199764.github.io/reading-notes/401-class-01)
  read02 | [read02](https://ahmed199764.github.io/reading-notes/401-class-02)
+ read03 | [read03](https://ahmed199764.github.io/reading-notes/401-class-03)
  
 ![Reading logo](https://media.istockphoto.com/vectors/book-reading-logo-and-symbols-template-icons-app-vector-id1059719536)
