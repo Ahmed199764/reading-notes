@@ -63,6 +63,7 @@
  read18 | [read18](https://ahmed199764.github.io/reading-notes/401-class-18)
  read19 | [read19](https://ahmed199764.github.io/reading-notes/401-class-19)
  read26 | [read26](https://ahmed199764.github.io/reading-notes/401-class-26)
+ read27 | [read27](https://ahmed199764.github.io/reading-notes/401-class-27)
 
  
 ![Reading logo](https://media.istockphoto.com/vectors/book-reading-logo-and-symbols-template-icons-app-vector-id1059719536)
