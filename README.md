@@ -68,6 +68,7 @@
  read29 | [read29](https://ahmed199764.github.io/reading-notes/401-class-29)
  read30 | [read30](https://ahmed199764.github.io/reading-notes/401-class-30)
  read31 | [read31](https://ahmed199764.github.io/reading-notes/401-class-31)
+ read32 | [read32](https://ahmed199764.github.io/reading-notes/401-class-32)
 
  
 ![Reading logo](https://media.istockphoto.com/vectors/book-reading-logo-and-symbols-template-icons-app-vector-id1059719536)
