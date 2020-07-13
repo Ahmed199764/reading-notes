@@ -74,6 +74,7 @@
  read35 | [read35](https://ahmed199764.github.io/reading-notes/401-class-35)
  read36 | [read36](https://ahmed199764.github.io/reading-notes/401-class-36)
  read37 | [read37](https://ahmed199764.github.io/reading-notes/401-class-37)
+ read38 | [read38](https://ahmed199764.github.io/reading-notes/401-class-38)
 
  
 ![Reading logo](https://media.istockphoto.com/vectors/book-reading-logo-and-symbols-template-icons-app-vector-id1059719536)
